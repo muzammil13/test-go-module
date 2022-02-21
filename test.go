@@ -1,5 +1,5 @@
 package main
 
-func test() string {
+func Test() string {
 	return "test go module"
 }
